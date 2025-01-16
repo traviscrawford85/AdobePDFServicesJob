@@ -1,0 +1,9 @@
+wsl-venv/
+venv/
+.env
+
+__pycache__/
+*.py[cod]
+
+# Ignore Adobe PDF Services API credentials
+pdfservices-api-credentials.json
